@@ -2,6 +2,7 @@
 
 A simple and interactive Todo list application developed using Python. This project allows you to manage your tasks efficiently and keep track of your daily activities.
 
+![webStreamlitMozillaFirefox2024-01-2602-22-08-ezgif com-video-to-gif-converter](https://github.com/Jaisurya1304/Todo--List/assets/147603454/80c9100e-2207-449b-b4f5-209c84b70db7)
 ## Features 🚀
 
 - **User-Friendly Interface**: Clean and intuitive design for easy task management.
