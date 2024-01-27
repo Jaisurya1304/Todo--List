@@ -1,4 +1,4 @@
-FILEPATH = "C:/Users/surya/OneDrive/Documents/pyprojects/todolist/todos.txt"
+FILEPATH = "todos.txt"
 
 
 def get_todos(filepath=FILEPATH):
