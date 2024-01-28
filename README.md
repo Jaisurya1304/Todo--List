@@ -15,3 +15,7 @@ A simple and interactive Todo list application developed using Python. This proj
 1. Clone the repository:
    ```bash
    git clone https://github.com/Jaisurya1304/Todo--List.git
+
+## Need Assistance?
+
+If you encounter any challenges while using Refer Up or have recommendations for its enhancement, don't hesitate to [open an issue](https://github.com/vishan01). I'm here to provide support!
